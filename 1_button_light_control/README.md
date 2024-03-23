@@ -1,5 +1,5 @@
-# simple_hobby_lights
-Simple Hobby Lights using neopixels and an Adafruit KB2040
+# 1_button_light_control
+One button light controller using neopixels and an Adafruit KB2040
 
 ## What is this project for?
 I want to use this light for photographing Gundam, 30 Minute Missions, and other little hobby models I build to relax. 
