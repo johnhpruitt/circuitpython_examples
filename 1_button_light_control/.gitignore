@@ -1,0 +1,33 @@
+# top level scraps
+scraps.py
+log.txt
+boot_out.txt
+
+# top level folders
+lib/*
+!lib/.gitkeep
+examples/*
+!examples/.gitkeep
+official_uf2/*
+!official_uf2.gitkeep
+official_libraries/*
+!official_libraries/.gitkeep
+
+
+# subfolder scraps
+*/scraps.py
+*/log.txt
+*/boot_out.txt
+
+# subfolder folders
+*/lib/*
+!*/lib/.gitkeep
+*/examples/*
+!*/examples/.gitkeep
+
+# Ignore IDE specific files and fragments from OS mounting as drive
+.fseventsd/
+.Trash-1000/
+.Trash-*/
+"System Volume Information"/
+.vscode/
