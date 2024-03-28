@@ -41,6 +41,10 @@ boot_out.txt
 !*/lib/.gitkeep
 */examples/*
 !*/examples/.gitkeep
+# CircuitPython 9 added an sd/ dir by default to represent the SD card
+*/sd/*
+!*/sd/.gitkeep
+!*/sd/placeholder.txt
 
 # Ignore IDE specific files and fragments from OS mounting as drive
 .fseventsd/
