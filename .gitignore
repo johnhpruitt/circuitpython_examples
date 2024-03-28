@@ -48,10 +48,18 @@ boot_out.txt
 
 # Ignore IDE specific files and fragments from OS mounting as drive
 .fseventsd/
+*/.fseventsd/
+
 .Trash-1000/
+*/.Trash-1000/
+
 .Trash-*/
 */.Trashes
+
 .Trashes
+*/.Trashes
+
 System*Volume*Information/*
 */System*Volume*Information/*
+
 .vscode/
